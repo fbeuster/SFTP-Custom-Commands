@@ -1,0 +1,5 @@
+[
+    {
+        "keys": ["super+alt+4"], "command": "sync_down_tabs"
+    }
+]
