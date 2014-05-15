@@ -1,5 +1,6 @@
 [
     {
-        "keys": ["ctrl+alt+4"], "command": "sync_down_tabs"
+        "keys": ["ctrl+alt+n"], "command": "sync_down_tabs",
+        "keys": ["ctrl+alt+m"], "command": "sync_down_windows"
     }
 ]
